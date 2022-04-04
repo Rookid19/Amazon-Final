@@ -1,0 +1,19 @@
+/* @media (max-width: 360px) {
+   .roo {
+      width: 100%;
+   }
+} */
+/* .app {
+   width: 100%;
+} */
+/* p {
+   display: block;
+   margin-block-start: 1em;
+   margin-block-end: 1em;
+   margin-inline-end: 0px;
+} */
+@media (max-width: 990px) {
+   .app {
+      width: 100%;
+   }
+}
