@@ -8,6 +8,7 @@ function Checkout() {
    const [{ basket, user }, dispatch] = useStateValue();
    console.log("basekt---->" + basket);
 
+   // hello
    const emptyBasket = () => {
       //dispatch the item into the dater layer
       dispatch({
